@@ -27,10 +27,10 @@
 
 ###  人类 (Homo sapiens)
 - **来源**: Ensembl
-- **下载页面**: [https://ftp.ensembl.org/pub/current_fasta/homo_sapiens/cds/](https://ftp.ensembl.org/pub/current_fasta/homo_sapiens/cds/)
+- **下载页面**: https://ftp.ensembl.org/pub/current_fasta/homo_sapiens/cds/
 - **直接下载命令**:
   ```bash
-  wget [https://ftp.ensembl.org/pub/current_fasta/homo_sapiens/cds/Homo_sapiens.GRCh38.cds.all.fa.gz](https://ftp.ensembl.org/pub/current_fasta/homo_sapiens/cds/Homo_sapiens.GRCh38.cds.all.fa.gz)
+  wget wget ftp://ftp.ensembl.org/pub/current_fasta/homo_sapiens/cds/Homo_sapiens.GRCh38.cds.all.fa.gz
   ```
 
 ###  小鼠 (Mus musculus)
