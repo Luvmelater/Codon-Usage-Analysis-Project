@@ -30,7 +30,7 @@
 - **下载页面**: https://ftp.ensembl.org/pub/current_fasta/homo_sapiens/cds/
 - **直接下载命令**:
   ```bash
-  wget wget ftp://ftp.ensembl.org/pub/current_fasta/homo_sapiens/cds/Homo_sapiens.GRCh38.cds.all.fa.gz
+  wget ftp://ftp.ensembl.org/pub/current_fasta/homo_sapiens/cds/Homo_sapiens.GRCh38.cds.all.fa.gz
   ```
 
 ###  小鼠 (Mus musculus)
@@ -38,7 +38,7 @@
 - **下载页面**: [https://ftp.ensembl.org/pub/current_fasta/mus_musculus/cds/](https://ftp.ensembl.org/pub/current_fasta/mus_musculus/cds/)
 - **直接下载命令**:
   ```bash
-  wget [https://ftp.ensembl.org/pub/current_fasta/mus_musculus/cds/Mus_musculus.GRCm39.cds.all.fa.gz](https://ftp.ensembl.org/pub/current_fasta/mus_musculus/cds/Mus_musculus.GRCm39.cds.all.fa.gz)
+  wget ftp://ftp.ensembl.org/pub/current_fasta/mus_musculus/cds/Mus_musculus.GRCm39.cds.all.fa.gz
   ```
 
 ###  果蝇 (Drosophila melanogaster)
@@ -46,7 +46,7 @@
 - **下载页面**: [https://ftp.ensemblgenomes.ebi.ac.uk/pub/current/metazoa/fasta/drosophila_melanogaster/cds/](https://ftp.ensemblgenomes.ebi.ac.uk/pub/current/metazoa/fasta/drosophila_melanogaster/cds/)
 - **直接下载命令**:
   ```bash
-  wget [https://ftp.ensemblgenomes.ebi.ac.uk/pub/current/metazoa/fasta/drosophila_melanogaster/cds/Drosophila_melanogaster.BDGP6.32.cds.all.fa.gz](https://ftp.ensemblgenomes.ebi.ac.uk/pub/current/metazoa/fasta/drosophila_melanogaster/cds/Drosophila_melanogaster.BDGP6.32.cds.all.fa.gz)
+  wget ftp://ftp.ensemblgenomes.ebi.ac.uk/pub/current/metazoa/fasta/drosophila_melanogaster/cds/Drosophila_melanogaster.BDGP6.32.cds.all.fa.gz
   ```
 
 ###  秀丽隐杆线虫 (Caenorhabditis elegans)
@@ -54,7 +54,7 @@
 - **下载页面**: [https://ftp.ensemblgenomes.ebi.ac.uk/pub/current/metazoa/fasta/caenorhabditis_elegans/cds/](https://ftp.ensemblgenomes.ebi.ac.uk/pub/current/metazoa/fasta/caenorhabditis_elegans/cds/)
 - **直接下载命令**:
   ```bash
-  wget [https://ftp.ensemblgenomes.ebi.ac.uk/pub/current/metazoa/fasta/caenorhabditis_elegans/cds/Caenorhabditis_elegans.WBcel235.cds.all.fa.gz](https://ftp.ensemblgenomes.ebi.ac.uk/pub/current/metazoa/fasta/caenorhabditis_elegans/cds/Caenorhabditis_elegans.WBcel235.cds.all.fa.gz)
+  wget ftp://ftp.ensemblgenomes.ebi.ac.uk/pub/current/metazoa/fasta/caenorhabditis_elegans/cds/Caenorhabditis_elegans.WBcel235.cds.all.fa.gz
   ```
 
 ###  拟南芥 (Arabidopsis thaliana)
@@ -62,7 +62,7 @@
 - **下载页面**: [https://ftp.ensemblgenomes.ebi.ac.uk/pub/current/plants/fasta/arabidopsis_thaliana/cds/](https://ftp.ensemblgenomes.ebi.ac.uk/pub/current/plants/fasta/arabidopsis_thaliana/cds/)
 - **直接下载命令**:
   ```bash
-  wget [https://ftp.ensemblgenomes.ebi.ac.uk/pub/current/plants/fasta/arabidopsis_thaliana/cds/Arabidopsis_thaliana.TAIR10.cds.all.fa.gz](https://ftp.ensemblgenomes.ebi.ac.uk/pub/current/plants/fasta/arabidopsis_thaliana/cds/Arabidopsis_thaliana.TAIR10.cds.all.fa.gz)
+  wget ftp://ftp.ensemblgenomes.ebi.ac.uk/pub/current/plants/fasta/arabidopsis_thaliana/cds/Arabidopsis_thaliana.TAIR10.cds.all.fa.gz
   ```
 
 ###  酵母 (Saccharomyces cerevisiae)
@@ -70,7 +70,7 @@
 - **下载页面**: [https://ftp.ensemblgenomes.ebi.ac.uk/pub/current/fungi/fasta/saccharomyces_cerevisiae/cds/](https://ftp.ensemblgenomes.ebi.ac.uk/pub/current/fungi/fasta/saccharomyces_cerevisiae/cds/)
 - **直接下载命令**:
   ```bash
-  wget [https://ftp.ensemblgenomes.ebi.ac.uk/pub/current/fungi/fasta/saccharomyces_cerevisiae/cds/Saccharomyces_cerevisiae.R64-1-1.cds.all.fa.gz](https://ftp.ensemblgenomes.ebi.ac.uk/pub/current/fungi/fasta/saccharomyces_cerevisiae/cds/Saccharomyces_cerevisiae.R64-1-1.cds.all.fa.gz)
+  wget ftp://ftp.ensemblgenomes.ebi.ac.uk/pub/current/fungi/fasta/saccharomyces_cerevisiae/cds/Saccharomyces_cerevisiae.R64-1-1.cds.all.fa.gz
   ```
 
 ## 项目文件结构
