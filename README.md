@@ -89,7 +89,7 @@
 
 ## 环境要求与安装
 
-本项目使用Python 3.x，并依赖于以下第三方库。您可以通过pip来安装它们：
+本项目使用Python 3.12，并依赖于以下第三方库。您可以通过pip来安装它们：
 
 ```bash
 pip install pandas seaborn matplotlib scikit-learn scipy biopython numpy
